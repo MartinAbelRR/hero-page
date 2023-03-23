@@ -7,8 +7,8 @@ El objetivo del proyecto es conocer a los heroes más representativos, mostrando
 
 Por último, la página web contiene un buscador, para que el usuario busque un héroe de su interés.
  
-Implentaciones realizadas al proyecto: <br>
+Implementaciones realizadas al proyecto: <br>
 ✓ Hooks. <br>
-✓ Rutas públicas y protegidas. <br>
+✓ Rutas públicas y privadas. <br>
 
 *`Martin Abel Reyes Rojas`*
